@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build directories
 /target/
 
@@ -21,3 +22,6 @@ cargo.lock
 
 # If using rustup, you may want to ignore the rust toolchain file:
 rust-toolchain
+=======
+/target
+>>>>>>> 389a5b0 (Initial commit)
